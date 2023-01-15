@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementAPI", "RSPHotelManagementAPI\RSPHotelManagementAPI.csproj", "{2CDE7C3B-EA0A-4955-B51E-B79A0AFF761E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementDAL", "RSPHotelManagementDAL\RSPHotelManagementDAL.csproj", "{4EA244F6-A919-428B-BD4D-CDB6A2A2D941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementBAL", "RSPHotelManagementBAL\RSPHotelManagementBAL.csproj", "{423CA50C-4034-4AD5-B3CB-EE8C93B163A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementModel", "RSPHotelManagementModel\RSPHotelManagementModel.csproj", "{8151488C-EE3E-4047-AD81-76B424C30E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementComman", "RSPHotelManagementComman\RSPHotelManagementComman.csproj", "{709198D4-09BF-4BAB-A533-8F41738A2BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPHotelManagementWebsite", "RSPHotelManagementWebsite\RSPHotelManagementWebsite.csproj", "{C382C4F0-D5E3-45C2-B7BA-33480BC1F0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDE7C3B-EA0A-4955-B51E-B79A0AFF761E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE7C3B-EA0A-4955-B51E-B79A0AFF761E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE7C3B-EA0A-4955-B51E-B79A0AFF761E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE7C3B-EA0A-4955-B51E-B79A0AFF761E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA244F6-A919-428B-BD4D-CDB6A2A2D941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA244F6-A919-428B-BD4D-CDB6A2A2D941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA244F6-A919-428B-BD4D-CDB6A2A2D941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA244F6-A919-428B-BD4D-CDB6A2A2D941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423CA50C-4034-4AD5-B3CB-EE8C93B163A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423CA50C-4034-4AD5-B3CB-EE8C93B163A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423CA50C-4034-4AD5-B3CB-EE8C93B163A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423CA50C-4034-4AD5-B3CB-EE8C93B163A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8151488C-EE3E-4047-AD81-76B424C30E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8151488C-EE3E-4047-AD81-76B424C30E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8151488C-EE3E-4047-AD81-76B424C30E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8151488C-EE3E-4047-AD81-76B424C30E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709198D4-09BF-4BAB-A533-8F41738A2BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709198D4-09BF-4BAB-A533-8F41738A2BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709198D4-09BF-4BAB-A533-8F41738A2BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709198D4-09BF-4BAB-A533-8F41738A2BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C382C4F0-D5E3-45C2-B7BA-33480BC1F0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C382C4F0-D5E3-45C2-B7BA-33480BC1F0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C382C4F0-D5E3-45C2-B7BA-33480BC1F0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C382C4F0-D5E3-45C2-B7BA-33480BC1F0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BC5AF0-3A33-403E-87EE-F150E75E6D35}
+	EndGlobalSection
+EndGlobal
