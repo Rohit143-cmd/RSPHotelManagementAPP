@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Comman\RepositoryBase.cs" />
+    <Compile Include="Interface\Department\IDepartmentRepository.cs" />
     <Compile Include="Interface\NavigationMenu\INavigationRepository.cs" />
     <Compile Include="Interface\User\IUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
